@@ -1,0 +1,41 @@
+h1{
+    color: rgb(0, 0, 0);
+    font-weight: bold;  
+    font-size: 40;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+a {
+    font-size: 20;
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+  }
+  
+  a:link {
+    color: rgb(0, 0, 0);
+  }
+  
+  a:visited {
+    color: rgb(70, 2, 2);
+  }
+  
+  a:focus, a:hover {
+    border-bottom: 1px solid;
+    color: black;
+    font-weight: bold;
+
+  }
+  
+  a:active {
+    color: red;
+  }
+  
+  a[href*="http"] {
+    background: url('https://mdn.mozillademos.org/files/12982/external-link-52.png') no-repeat 100% 0;
+    background-size: 16px 16px;
+    padding-right: 19px;
+  }
+  .fon{
+    background-color: gold;
+  }

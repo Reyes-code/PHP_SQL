@@ -1,0 +1,65 @@
+.arriba{
+    
+    background-image:url( https://i.pinimg.com/originals/e5/21/e6/e521e64ce4d506898c65e8545af78c57.jpg);
+    color: rgb(251, 251, 251);
+    border: rgb(255, 0, 0) ;
+    font-family:arial;
+    font-weight:bolder;
+    margin: 0;
+    list-style-type: none;
+    padding: 0;
+    
+}
+
+.body{
+    /*background-color: rgb(0, 0, 0);*/
+   background-image: url(../Replay/fondob.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+   background-attachment: fixed;
+}
+.tittle2{
+    color: #ffffff;
+    font-size: 250px;
+}
+h1{
+    font-size: 100px;
+    
+}
+.navbar-light .navbar-nav .nav-link1 {
+    color:snow;
+    font-size: 18px;
+
+}
+
+.bg-light1{
+background-color: rgba(0, 0, 0, 0.13);
+}
+
+.seg{
+    color: snow;
+    align-content: right;
+}
+.blanc{
+    color: snow;
+}
+.blanc3{
+    color:snow;
+    font-size: 15px;
+    
+}
+.sub{
+    color: rgb(251, 251, 251);
+    font-family: Arial, Helvetica, sans-serifs;
+    font-weight: bolder;
+}
+.first {
+    background-color: rgba(0, 0, 0, 0.623);
+}
+.sel  {
+    color: snow;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 30px;
+}
+
